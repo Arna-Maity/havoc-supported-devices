@@ -1,5 +1,4 @@
 ﻿{
-  "image": "https://raw.githubusercontent.com/Arna-Maity/havoc-supported-devices/master/images/I01WD.jpg"
   "architecture": "arm64",
   "battery": {
     "removable": false,
@@ -31,7 +30,7 @@
   "depth": "9.2 mm (0.36 in)",
   "gpu": "Adreno 640",
   "height": "159.1 mm (6.26 in)",
-  "image": "I01WD.jpg",
+  "image": "https://raw.githubusercontent.com/Arna-Maity/havoc-supported-devices/master/images/I01WD.jpg",
   "is_ab_device": true,
   "kernel": "android_kernel_asus_sm8150",
   "maintainers": [
