@@ -1,0 +1,67 @@
+﻿{
+  "architecture": "arm",
+  "battery": {
+    "removable": false,
+    "capacity": 2070,
+    "tech": "Li-Ion"
+  },
+  "bluetooth": {
+    "spec": "4.0 + LE",
+    "profiles": [
+      "A2DP"
+    ]
+  },
+  "cameras": [
+    {
+      "flash": "LED",
+      "info": "5 MP"
+    },
+    {
+      "flash": "",
+      "info": "1.3 MP"
+    }
+  ],
+  "codename": "falcon",
+  "cpu": "Cortex-A7",
+  "cpu_cores": "4",
+  "cpu_freq": "1.2 GHz",
+  "gpu": "Adreno 305",
+  "image": "https://raw.githubusercontent.com/Arna-Maity/havoc-supported-devices/master/images/falcon.jpg",
+  "kernel": "android_kernel_motorola_msm8226",
+  "maintainers": [],
+  "models": [
+    "XT1031",
+    "XT1032",
+    "XT1033",
+    "XT1034"
+  ],
+  "name": "Moto G",
+  "network": [
+    "2G GSM",
+    "2G CDMA",
+    "3G UMTS",
+    "3G CDMA2000"
+  ],
+  "peripherals": [
+    "Accelerometer",
+    "Proximity sensor",
+    "Compass"
+  ],
+  "ram": "1 GB",
+  "recovery_boot": "With the device powered off, hold <kbd>Volume Down</kbd> + <kbd>Power</kbd>. On the next screen use <kbd>Volume Down</kbd> to scroll to recovery and then press <kbd>Volume Up</kbd> to select.",
+  "release": "2013-11",
+  "screen": "114 mm (4.5 in)",
+  "screen_ppi": "~326",
+  "screen_res": "720 x 1280 pixels",
+  "screen_tech": "IPS LCD capacitive touchscreen, 16M colors",
+  "sdcard": null,
+  "soc": "Qualcomm MSM8226 Snapdragon 400",
+  "storage": "8/16 GB",
+  "tree": "android_device_motorola_falcon",
+  "type": "phone",
+  "vendor": "Motorola",
+  "vendor_short": "motorola",
+  "versions": [
+  ],
+  "wifi": "Wi-Fi 802.11 b/g/n, Hotspot"
+}
