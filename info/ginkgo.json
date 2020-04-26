@@ -59,8 +59,8 @@
   "storage": "32/64/128 GB",
   "tree": "android_device_huawei_angler",
   "type": "phablet",
-  "vendor": "Google",
-  "vendor_short": "huawei",
+  "vendor": "Xiaomi",
+  "vendor_short": "xiaomi",
   "versions": [
     14.1,
     15.1
