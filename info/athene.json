@@ -26,7 +26,7 @@
   "depth": "9.8 mm (0.39 in)",
   "gpu": "Adreno 405",
   "height": "153 mm (6.02 in)",
-  "image": "athene.png",
+  "image": "https://raw.githubusercontent.com/Arna-Maity/havoc-supported-devices/master/images/athene.jpg",
   "kernel": "android_kernel_motorola_msm8952",
   "maintainers": [],
   "models": [

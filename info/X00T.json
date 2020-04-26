@@ -33,7 +33,7 @@
   "depth": "8.5 mm (0.33 in)",
   "gpu": "Adreno 509",
   "height": "159 mm (6.26 in)",
-  "image": "X00TD.png",
+  "image": "https://raw.githubusercontent.com/Arna-Maity/havoc-supported-devices/master/images/X00T.jpg",
   "kernel": "android_kernel_asus_sdm660",
   "maintainers": [
   ],

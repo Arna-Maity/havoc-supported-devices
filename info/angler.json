@@ -29,7 +29,7 @@
   "download_boot": "With the device powered off, hold <kbd>Volume Down</kbd> + <kbd>Power</kbd>.",
   "gpu": "Adreno 430",
   "height": "159.3 mm (6.27 in)",
-  "image": "angler.png",
+  "image": "https://raw.githubusercontent.com/Arna-Maity/havoc-supported-devices/master/images/angler.jpg",
   "kernel": "android_kernel_huawei_angler",
   "maintainers": [],
   "name": "Nexus 6P",
