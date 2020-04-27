@@ -1,3 +1,6 @@
+
+# List of currently maintained devices:
+
 |                Device Name:              | Device Codename: |      Device Telegram Group:        |          Maintainer:              |
 |:----------------------------------------:|------------------|------------------------------------|-----------------------------------|
 | Asus ROG Phone II                        | I001D            | https://t.me/havoc_I001D           | https://t.me/ComicoX              |
