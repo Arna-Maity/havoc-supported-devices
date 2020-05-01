@@ -72,8 +72,8 @@
   "vendor": "Asus",
   "vendor_short": "asus",
   "versions": [
-    2,
-    3
+    9,
+    10
   ],
   "width": "75.4 mm (2.97 in)",
   "wifi": "802.11 a/b/g/n/ac"
